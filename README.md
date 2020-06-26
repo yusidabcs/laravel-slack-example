@@ -4,4 +4,4 @@ Example send notification from laravel to slack
 - Run composer install
 - Enjoy
 
-Link tutorial: https://ngide.net/posts/2018/05/17/laravel-notification-bagaimana-cara-mengirim-pesan-ke-slack-dengan-laravel
+Link tutorial: https://ngide.net/laravel-notification-bagaimana-cara-mengirim-pesan-ke-slack-dengan-laravel
